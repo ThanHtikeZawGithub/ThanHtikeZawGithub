@@ -25,7 +25,7 @@
 ## Favorite Tech Stack
 - MERN stack
 
-## Most Used Language
+## Most Used Language, Libraries and Frameworks
 - Javascript
 - React / Nextjs
 - tailwind
