@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/125514456/232381351-46c3c367-331a-4040-8b12-d062a670ab67.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/125514456/232381369-267fd114-9145-46f6-8227-e423abd730de.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/125514456/232381446-07aec68d-1a3c-4aca-b848-020d566bcdb5.png" width="40" height="40">
-</p>
+<img src="https://user-images.githubusercontent.com/125514456/5f87d420-a6eb-4991-a1b6-bfdb3e3726cb.png" width="40" height="40">
 
 ## Favorite Tech Stack and Framework
 - MERN stack
