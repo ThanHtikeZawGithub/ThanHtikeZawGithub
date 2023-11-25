@@ -22,14 +22,17 @@
 <img src="https://user-images.githubusercontent.com/125514456/232381446-07aec68d-1a3c-4aca-b848-020d566bcdb5.png" width="40" height="40">
 </p>
 
-## Favorite Tech Stack
+## Favorite Tech Stack and Framework
 - MERN stack
+- Nextjs
 
 ## Most Used Language, Libraries and Frameworks
+- Typescript
 - Javascript
 - React / Nextjs
 - tailwind
-- Node, Mongodb
+- Nodejs
+- Nestjs
 
 
 
