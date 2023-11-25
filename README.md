@@ -22,6 +22,9 @@
 <img src="https://user-images.githubusercontent.com/125514456/232381446-07aec68d-1a3c-4aca-b848-020d566bcdb5.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/125514456/5f87d420-a6eb-4991-a1b6-bfdb3e3726cb.png" width="40" height="40">
 
+![nestjs 512x510](https://github.com/ThanHtikeZawGithub/ThanHtikeZawGithub/assets/125514456/38108808-0d7c-466d-bca5-08027a835e47)
+
+
 ## Favorite Tech Stack and Framework
 - MERN stack
 - Nextjs
