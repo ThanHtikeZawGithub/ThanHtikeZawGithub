@@ -34,6 +34,10 @@
 - Nodejs
 - Nestjs
 
+## Progressing Languages and Frameworks
+- Java Springboot
+- PHP
+- Wordpress
 
 
 ## Let's connect
