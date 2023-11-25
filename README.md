@@ -20,8 +20,8 @@
 <img src="https://user-images.githubusercontent.com/125514456/232381351-46c3c367-331a-4040-8b12-d062a670ab67.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/125514456/232381369-267fd114-9145-46f6-8227-e423abd730de.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/125514456/232381446-07aec68d-1a3c-4aca-b848-020d566bcdb5.png" width="40" height="40">
- ![nestjs 512x510](https://github.com/ThanHtikeZawGithub/ThanHtikeZawGithub/assets/125514456/38108808-0d7c-466d-bca5-08027a835e47)
-<img src="https://user-images.githubusercontent.com/125514456/38108808-0d7c-466d-bca5-08027a835e47.png" width="40" height="40">
+ <img src="https://github.com/ThanHtikeZawGithub/ThanHtikeZawGithub/raw/main/assets/125514456/38108808-0d7c-466d-bca5-08027a835e47.png" width="40" height="40">
+
 
 
 ## Favorite Tech Stack and Framework
