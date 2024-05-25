@@ -3,7 +3,7 @@
 
   A passionate developer from Myanmar. I'm currently working as a freelance web developer and experimenting with new technologies.
 
-- 🚀 A guy who likes to code
+- 🚀 Full-stack developer at GENKI SYSTEM
 - 🎓 Mechanical Engineer from MTU
 - 💻 Learning to contribute clean and efficient codes
 
